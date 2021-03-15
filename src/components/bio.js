@@ -47,7 +47,7 @@ const Bio = () => {
           This might be my personal website in the future.
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            Follow them on Twitter
+            Follow me on Twitter
           </a>
         </p>
       )}
